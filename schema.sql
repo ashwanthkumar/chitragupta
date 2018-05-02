@@ -1,3 +1,5 @@
+--  Default Schema of the DB which is available as part of the repo.
+
 CREATE TABLE IF NOT EXISTS users (
   `uid` INTEGER PRIMARY KEY AUTOINCREMENT, -- Just for Visual Display on the page
   `name` TEXT
