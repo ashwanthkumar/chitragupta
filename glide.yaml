@@ -1,0 +1,6 @@
+package: github.com/ashwanthkumar/chitragupta
+import:
+- package: github.com/mattn/go-sqlite3
+  version: v1.6.0
+- package: github.com/mitchellh/go-homedir
+- package: github.com/hashicorp/go-getter
